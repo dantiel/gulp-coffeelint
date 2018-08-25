@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "args-js": "^0.10.5",
-    "@fellow/coffeelint2": "^1.4.0",
+    "@fellow/coffeelint2": "^2.6.2",
     "coffeelint-stylish": "^0.1.1",
     "gulp-util": "^3.0.0",
     "through2": "^2.0.0"
