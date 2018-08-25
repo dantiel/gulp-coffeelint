@@ -6,7 +6,7 @@ exports.isLiterate = (file) ->
     /\.(litcoffee|coffee\.md)$/.test file
 
 exports.createPluginError = (message) ->
-    new PluginError 'gulp-coffeelint', message
+    new PluginError 'gulp-coffeelint2', message
 
 exports.formatOutput = (errorReport, opt, literate) ->
     {errorCount, warningCount} = errorReport.getSummary()

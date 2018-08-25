@@ -3,7 +3,7 @@
 fs = require 'fs'
 through2 = require 'through2'
 Args = require 'args-js' # main entry missing in `args-js` package
-coffeelint = require 'coffeelint'
+coffeelint = require '@fellow/coffeelint2'
 configfinder = require 'coffeelint/lib/configfinder'
 
 # `reporter`
