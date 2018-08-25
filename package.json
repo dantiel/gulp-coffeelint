@@ -11,11 +11,11 @@
     "coffee-script",
     "codeconventions"
   ],
-  "repository": "janraasch/gulp-coffeelint",
+  "repository": "dantiel/gulp-coffeelint2",
   "author": {
-    "name": "Jan Raasch",
-    "email": "jan@janraasch.com",
-    "url": "http://janraasch.com"
+    "name": "Dantiel",
+    "email": "daro@darographix.de",
+    "url": "http://darographix.de"
   },
   "files": [
     "index.js",
